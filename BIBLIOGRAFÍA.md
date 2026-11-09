@@ -19,3 +19,15 @@ Aquí estará la documentación y sitios Web consultados para cada tema de las c
 - https://dev.to/vjygour/understanding-tsconfigjson-the-heart-of-your-typescript-project-1ga1
 - https://www.w3schools.com/typescript/typescript_config.php
 - https://coddy.tech/docs/es/typescript/run-typescript
+
+## Tema 3 - Tipos básicos.
+
+- https://www.w3schools.com/typescript/typescript_simple_types.php
+- https://es.wikipedia.org/wiki/TypeScript
+- https://algonova.com/lat/es/glosario/que-es-un-booleano
+- https://www.ionos.com/es-us/digitalguide/paginas-web/desarrollo-web/typescript-arrays/
+- https://www.luisllamas.es/typescript-uniones/
+- https://dev.to/krunalkanojiya/how-to-use-the-any-type-and-when-to-avoid-it-148m
+- https://coddy.tech/docs/es/typescript/any-vs-unknown
+- https://medium.com/@juli1pb/why-you-should-not-use-the-type-any-in-typescript-500b27f82a7c
+- https://q2bstudio.com/nuestro-blog/13234/no-uses-any-en-typescript-seguro
