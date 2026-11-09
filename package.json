@@ -1,0 +1,28 @@
+{
+  "name": "tp-integrador-iv-osorio-yanet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Documentación y práctica básica con typescript",
+  "scripts": {
+    "test": "npx tsx app.ts",
+    "start": "node dist/app.js",
+    "build": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N1liaq/TP-Integrador-IV-osorio-yanet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/N1liaq/TP-Integrador-IV-osorio-yanet/issues"
+  },
+  "homepage": "https://github.com/N1liaq/TP-Integrador-IV-osorio-yanet#readme",
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
