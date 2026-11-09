@@ -31,3 +31,9 @@ Aquí estará la documentación y sitios Web consultados para cada tema de las c
 - https://coddy.tech/docs/es/typescript/any-vs-unknown
 - https://medium.com/@juli1pb/why-you-should-not-use-the-type-any-in-typescript-500b27f82a7c
 - https://q2bstudio.com/nuestro-blog/13234/no-uses-any-en-typescript-seguro
+
+## Tema 4 - Funciones
+
+- https://www.luisllamas.es/typescript-parametros-funciones/
+- https://esdocu.com/typescript/funciones-en-typescript
+- https://es.sharpcoderblog.com/blog/typescript-functions-how-to-use-parameters-and-return-types
