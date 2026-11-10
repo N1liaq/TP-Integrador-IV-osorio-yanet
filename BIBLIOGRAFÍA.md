@@ -37,3 +37,11 @@ Aquí estará la documentación y sitios Web consultados para cada tema de las c
 - https://www.luisllamas.es/typescript-parametros-funciones/
 - https://esdocu.com/typescript/funciones-en-typescript
 - https://es.sharpcoderblog.com/blog/typescript-functions-how-to-use-parameters-and-return-types
+
+## Tema 5: Interfaces y type
+
+- https://coddy.tech/docs/es/typescript/interfaces
+- https://www.webtutoriales.com/articulos/2024/01/11/tipos-typescript/
+- https://www-geeksforgeeks-org.translate.goog/typescript/typescript-optional-properties-type/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc&_x_tr_hist=true
+- https://coddy.tech/docs/es/typescript/interface-vs-type
+- https://mysqlya.com.ar/bases-de-datos/atributos-opcionales-y-mandatorios-base-de-datos/
