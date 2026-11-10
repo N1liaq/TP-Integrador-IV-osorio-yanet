@@ -45,3 +45,9 @@ Aquí estará la documentación y sitios Web consultados para cada tema de las c
 - https://www-geeksforgeeks-org.translate.goog/typescript/typescript-optional-properties-type/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc&_x_tr_hist=true
 - https://coddy.tech/docs/es/typescript/interface-vs-type
 - https://mysqlya.com.ar/bases-de-datos/atributos-opcionales-y-mandatorios-base-de-datos/
+
+## Tema 6: Enums y tipos literales
+
+- https://mimo.org/glossary/typescript/enum
+- https://www.makigas.es/series/typescript/tipos-literales
+- https://graphite.com/guides/typescript-enums
